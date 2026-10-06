@@ -1,4 +1,4 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=lordhassan&label=Profile%20views&color=dc143c&style=flat" alt="lordhassan">
+<img align ="right" src="https://komarev.com/ghpvc/?username=lordhassan&label=Profile%20views&color=blue&style=flat" alt="lordhassan">
 <!-- <h1 align="left">Hi there 👋</h1> -->
 
 ## Stats
